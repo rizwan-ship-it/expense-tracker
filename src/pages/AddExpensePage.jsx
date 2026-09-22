@@ -103,7 +103,7 @@ function AddExpensePage () {
           <div>
             <button
               type='submit'
-              className='bg-violet-600 p-2 text-white font-bold rounded cursor-pointer active:scale-95'
+              className='bg-green-600 p-2 text-white font-bold rounded cursor-pointer active:scale-95'
             >
               Add Expense
             </button>
